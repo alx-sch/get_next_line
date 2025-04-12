@@ -1,4 +1,4 @@
-# 42_get_next_line
+# get_next_line
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/alx-sch/42_get_next_line/main/.assets/get_next_linee.png" alt="get_next_line_badge.png" />
